@@ -1,4 +1,16 @@
-.App {
-  text-align: center;
+.app {
+  display: flex;
+  flex-direction: column;
+  color: #141c3a;
 }
+
+/*All recipes*/
+
+/*Favorite recipes*/
+
+/*Search term*/
+
+/*Recipe*/
+
+/*Favorite button*/
 
